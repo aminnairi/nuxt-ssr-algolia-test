@@ -12,7 +12,7 @@ Test for Algolia with Nuxt server-side rendering.
 ## Usage
 
 Command | Alias | Description
----|---
+---|---|---
 `make` | `make install` | Installs the [Node.js][nodejs] dependencies.
 `make start` | N/A |Starts the server at [`localhost:1234`](http://localhost:1234).
 `make stop` | N/A | Stops the server.
