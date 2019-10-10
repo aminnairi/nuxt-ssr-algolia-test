@@ -1,4 +1,7 @@
-.PHONY: start stop restart
+.PHONY: install start stop restart
+
+install:
+	docker-compose run --rm node npm install
 
 start:
 	docker-compose up --detach
