@@ -1,6 +1,6 @@
 # nuxt-ssr-algolia-test
 
-Test for Algolia with Nuxt server-side rendering.
+Test for Algolia with Nuxt server-side rendering with advanced routing.
 
 ## Requirements
 
