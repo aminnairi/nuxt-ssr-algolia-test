@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "nuxt"
+  },
+  "devDependencies": {
+    "algoliasearch": "^3.35.1",
+    "instantsearch.js": "^3.7.0",
+    "nuxt": "^2.10.0",
+    "vue-instantsearch": "^2.5.0"
+  }
+}
